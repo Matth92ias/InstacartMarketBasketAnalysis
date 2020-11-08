@@ -1,0 +1,13 @@
+jupyter notebook ~/code/InstacartMarketBasketAnalysis
+jupyter notebook list
+
+python setup.py install --user
+
+https://bic-berkeley.github.io/psych-214-fall-2016/using_pythonpath.html
+
+Umschalt + Enter = run cell
+http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html
+esc then d+ d = delete cell
+esc then a = add cell above
+esc then b = add cell below
+esc then m = markdown cell
