@@ -1,5 +1,0 @@
-setup.py
-IMBA.egg-info/PKG-INFO
-IMBA.egg-info/SOURCES.txt
-IMBA.egg-info/dependency_links.txt
-IMBA.egg-info/top_level.txt
