@@ -1,0 +1,21 @@
+Zeitpunkt User
+Wie oft zur gleichen Tageszeit
+Wie oft zur gleichen Tageszeit in den letzten 3 Orders
+Wie oft zur gleichen Tageszeit in den letzten 5 Orders
+
+Produkt User
+Wie oft in den letzten 3 Orders
+Wie oft in den letzten 5 Orders
+Wie viele Orders zwischen der letzten mit Produkt und dieser Order
+
+Wie oft an der ersten Stelle
+Wie oft unter den drei ersten
+Wie oft unter den 20 % ersten
+
+Kategorie / Department User
+Wie oft Produkt dergleichen Kategorie (wie oft in letzten 3,5 Orders)
+Wie oft Produkt aus gleichem Department
+
+Produkt generell
+Anteil an allen Orders
+Wie oft wird das Produkt zur selben Tageszeit geordert
