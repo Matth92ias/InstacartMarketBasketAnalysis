@@ -1,5 +1,11 @@
-Structures is based on the following projects:
+Machine Learning Competition: Instacart Market Basket Analysis from kaggle
 
-* https://medium.com/swlh/how-to-structure-a-python-based-data-science-project-a-short-tutorial-for-beginners-7e00bff14f56
-* https://github.com/dssg/hitchhikers-guide/tree/master/sources/curriculum/0_before_you_start/pipelines-and-project-workflow
-* https://gist.github.com/ericmjl/27e50331f24db3e8f957d1fe7bbbe510
+Dataset available on the following page: https://www.kaggle.com/c/instacart-market-basket-analysis
+
+This was my first real project with Python. The dataset was appealing to me as a lot of feature engineering is necessary and I wanted to put my pandas skills which I acquired in the datacamp Data Scientist with Python Specialization to use. Also the fact that the data is organized in different „tables“ made it interesting to me as a lot of business data is still stored that way. 
+
+The notebooks used are saved in the folder notebooks. 
+
+Functions I wrote are saved in the folder src
+
+
